@@ -1,4 +1,4 @@
-## Hi there 👋! 
+## Hello World 👋! 
 
 
 - 🧑‍💻: I am a student web developer for Boise State University...
